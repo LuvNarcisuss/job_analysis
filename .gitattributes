@@ -1,2 +1,1 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+*.html linguist-language=Python  # 我的项目中html文件较多
