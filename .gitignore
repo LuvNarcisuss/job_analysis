@@ -20,6 +20,7 @@ env/
 .playwright-cli/
 .superpowers/
 AGENTS.md
+CLAUDE.md
 
 # 本地输入和生成输出文件
 results/
